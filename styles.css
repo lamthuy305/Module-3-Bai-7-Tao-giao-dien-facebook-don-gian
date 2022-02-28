@@ -1,0 +1,31 @@
+#header{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    position: fixed;
+    top: 0;
+}
+
+#sidebarleft{
+    width: 25%;
+    height: 1000px;
+    background-color: yellowgreen;
+    float: left;
+}
+
+#content{
+    width: 50%;
+    height: 5000px;
+    background-color: aliceblue;
+    float: left;
+}
+
+#sidebarright{
+    width: 25%;
+    height: 1000px;
+    background-color: green;
+    float: left;
+}
+h1{
+    text-align: center;
+}
